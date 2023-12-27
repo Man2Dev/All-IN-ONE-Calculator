@@ -1,4 +1,4 @@
-# a unusual calculator
+# An unusual calculator
 
 Which does the fallowing:
 1. basic mathematical functions.
